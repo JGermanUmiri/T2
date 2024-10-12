@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+}
+.titulo {
+    text-align: center;
+    color: gray;   
+}
+.image{
+   text-align: center;
+}
+.contenedor-4{
+    text-align: justify;
+    font-style: italic;
+}
